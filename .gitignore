@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+task_1/venv/
+task_2/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Misc logs / temporary files
+*.log
