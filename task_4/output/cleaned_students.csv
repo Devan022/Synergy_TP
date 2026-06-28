@@ -1,0 +1,11 @@
+student_id,name,domain,score,attendance,email
+101,Aarav,ML,89.0,95.0,aarav@example.com
+102,Meera,Web,76.0,88.0,meera@example.com
+103,Kabir,ML,72.375,91.0,kabir@example.com
+104,Isha,Electronics,92.0,88.66666666666667,isha@example.com
+105,Rohan,Web,100.0,84.0,rohan@example.com
+106,Tara,ML,68.0,100.0,tara@example.com
+107,Dev,Mechanical,0.0,79.0,dev@example
+108,Unknown,Civil,73.0,82.0,civil@example.com
+109,Ananya,Web,72.375,90.0,ananya@example.com
+110,Raj,ML,81.0,87.0,unknown@example.com
