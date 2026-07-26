@@ -1,0 +1,6 @@
+domain,x_variable,y_variable,pearson_correlation,spearman_correlation,sample_count
+Biochem,input_value,signal,0.9993192595149886,0.9486832980505139,9
+Electronics,input_value,signal,-0.9845302089827362,-0.9486832980505139,9
+Electronics,temperature_c,signal,-0.9919948344246584,-0.9748243359065808,9
+Mechanical,input_value,signal,0.9840701951202628,0.9486832980505139,9
+Mechanical,input_value,stress_mpa,0.9842913933850477,0.9486832980505139,9
